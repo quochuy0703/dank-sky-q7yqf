@@ -1,6 +1,6 @@
 const init = {
   tech: "React",
-  content: "hello"
+  content: "hellong"
 };
 
 export default (state = init, action) => {
